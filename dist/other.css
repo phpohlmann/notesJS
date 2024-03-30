@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&family=Glory:ital,wght@0,100..800;1,100..800&display=swap');
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Glory", sans-serif;
+}
+html{
+    background-image: url(imgs/BackgroundImage.png);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-family: "Aref Ruqaa Ink", serif;
+}
